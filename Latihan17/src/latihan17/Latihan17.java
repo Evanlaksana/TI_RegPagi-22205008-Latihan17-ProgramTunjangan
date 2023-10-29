@@ -2,8 +2,7 @@
 Nama : Evan Eka Laksana
  * Kelas : PBO1
  * NIM : 222050008
- * Deskripsi Program : Program ini berisi program untuk menampilkan
- * Program Tunjangan
+ * Deskripsi Program : Program ini berisi program untuk menampilkan Tunjangan
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
